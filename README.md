@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Spring MVC , Spring-Boot**
+- 💬 Ask me about **Spring MVC , Spring-Boot, Docker, MERN **
 
 - 📫 How to reach me **rohansardeshmukh44@gmail.com**
 
