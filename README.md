@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Spring MVC , Spring-Boot, Docker, MERN **
+- 💬 Ask me about **Spring MVC , Spring-Boot, Docker, MERN, AWS, Docker **
 
 - 📫 How to reach me **rohansardeshmukh44@gmail.com**
 
